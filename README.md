@@ -101,5 +101,9 @@
 
 ## Merging Branch in Github
 #### Merging adalah proses menggabungkan branch baru ke branch utama (main)
+### 1. pindah ke branch yang ingin menampung hasil merge, gunakan command line
+    git checkout "nama branch"
+### 2. gabungkan branch dengan command line berikut
+    git merge "nama branch"
 
 ## Other Procedure
