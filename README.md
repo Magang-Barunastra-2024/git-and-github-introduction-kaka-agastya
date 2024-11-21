@@ -92,6 +92,12 @@
 
 ## Delete Branch in Github
 #### Menghapus branch yang sudah tidak digunakan
+### 1. Pindah ke branch lain yang tidak dihapus
+    git checkout "nama branch"
+### 2. Hapus branch dengan command line berikut
+    git branch -d "nama branch"
+
+![alt text](<picture/gambar 11.png>)
 
 ## Merging Branch in Github
 #### Merging adalah proses menggabungkan branch baru ke branch utama (main)
