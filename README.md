@@ -14,7 +14,7 @@
 
 ![alt text](<picture/gambar 1.png>)
 ### 3. Konfigurasi Git
-#### setelah instalasi, konfigurasi nama dan email yang terhubung ke akun Github
+#### Setelah instalasi, konfigurasi nama dan email yang terhubung ke akun Github
     git config --global user.name "nama anda"
     git config --global user.email "email anda (email@example.com)"
 
@@ -27,12 +27,11 @@
     ssh-keygen -t ed25519 -C "email anda (email@example.com)"
     * klik enter 2 kali *
 ### d. gunakan perintah cat untuk memunculkan SSH key
-cat ~/.ssh/id_anda.pub
+    cat ~/.ssh/id_anda.pub
 
 ![alt text](<picture/gambar 4.png>)
 ### e. Copy semua teks dan paste pada bagian key pada setting New SSH key (di github)
-![alt text](<picture/gambar 5.png>) [alt text](README.md)
-
+![alt text](<picture/gambar 5.png>)
 ## Create Repository
 #### Repositori adalah tempat penyimpanan proyek Anda di Github.
 
