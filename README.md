@@ -35,6 +35,37 @@
 ## Create Repository
 #### Repositori adalah tempat penyimpanan proyek Anda di Github.
 
+### 1. Buka laman Github
+    https://github.com/new
+![alt text](<picture/gambar 6.png>)
+### 2. Masukkan nama repository sesuai keinginan
+### 3. Atur private atau public
+### 4. Buka repository yang sudah dibuat
+### 5. Hubungkan dengan file lokal
+
+#### a. Manual
+##### i. Buat folder dengan nama yang sama dengan di repository
+##### ii. Klik kanan dan buka Git bash
+##### iii. Masukkan command line berikut
+
+    git init
+    git remote add origin "link ssh"
+    git branch -M main
+    git pull origin "nama branch yang ingin didownload"
+![alt text](<picture/gambar 7.png>)
+##### b. Git Clone
+###### i. Buka Git Bash pada folder parent yang diinginkan dan ketikkan
+
+    git clone "link ssh"
+
+##### ii. Folder akan muncul pada file explorer
+##### iii. Buka foldernya
+##### iv. klik kanan dan buka Git Bash
+##### v. Masukkan command line
+
+    git branch -M main
+![alt text](<picture/gambar 8.png>)
+
 ## Push File from Local to Github
 #### Ini adalah proses mentransfer file atau proyek dari komputer lokal ke repositori Github.
 
