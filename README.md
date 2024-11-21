@@ -78,7 +78,7 @@
     git commit -m "deskripsi"
     git push origin "branch yang ingin diupload"
 
-
+![alt text](<picture/gambar 9.png>)
 
 ## Create New Branch in Github 
 #### Branch adalah salinan paralel dari proyek Anda, sebuah tempat untuk mengembangkan fitur baru tanpa mengganggu kode utama.
