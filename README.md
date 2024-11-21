@@ -117,4 +117,5 @@
 ### 2. gabungkan branch dengan command line berikut
     git merge "nama branch"
 
+![alt text](<picture/gambar 12.png>)
 ## Other Procedure
