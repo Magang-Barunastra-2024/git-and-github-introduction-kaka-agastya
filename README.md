@@ -79,6 +79,17 @@
 
 ![alt text](<picture/gambar 9.png>)
 
+### 1. Buat folder repositori
+### 2. Buat file atau folder baru
+### 3. Klik kanan, buka Git Bash
+### 4. Masukkan command line berikut 
+
+    git add .
+    git commit -m "deskripsi"
+    git push origin "branch yang ingin diupload"
+
+![alt text](<picture/gambar 9.png>)
+
 ## Create New Branch in Github 
 #### Branch adalah salinan paralel dari proyek Anda, sebuah tempat untuk mengembangkan fitur baru tanpa mengganggu kode utama.
 ### 1. Buka folder yang telah terhubung ke Github
