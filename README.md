@@ -10,7 +10,9 @@
 ### 1. Install Git
     https://git-scm.com/downloads
 ### 2. Membuat akun Github
+    ```
     https://github.com/join
+    ```
     ![alt text](<picture/gambar 1.png>)
 ### 3. Konfigurasi Git
 #### setelah instalasi, konfigurasi nama dan email yang terhubung ke akun Github
