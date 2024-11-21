@@ -8,13 +8,9 @@
 ## Early Procedure
 #### Tahap ini adalah persiapan awal sebelum mulai bekerja dengan Git dan Github.
 ### 1. Install Git
-    ```
     https://git-scm.com/downloads
-    ```
 ### 2. Membuat akun Github
-    ```
     https://github.com/join
-    ```
 ### 3. Konfigurasi Git
 #### setelah instalasi, konfigurasi nama dan email yang terhubung ke akun Github
     ```
