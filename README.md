@@ -19,10 +19,8 @@
 ### a. Buka laman Github -> Settings -> SSH and GPG keys -> New SSH key
 ### b. Buat key terlebih dahulu (buka git bash)
 ### c. Ketik command line berikut
-    ```
     ssh-keygen -t ed25519 -C "email anda (email@example.com)"
     * klik enter 2 kali *
-    ```
 ### d. copy dan paste SSH key pada bagian key pada setting New SSH key (di github)
 
 ## Create Repository
