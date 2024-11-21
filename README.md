@@ -13,10 +13,8 @@
     https://github.com/join
 ### 3. Konfigurasi Git
 #### setelah instalasi, konfigurasi nama dan email yang terhubung ke akun Github
-    ```
     git config --global user.name "nama anda"
     git config --global user.email "email anda (email@example.com)"
-    ```
 ### 4. Membuat SSH Keys
 ### a. Buka laman Github -> Settings -> SSH and GPG keys -> New SSH key
 ### b. Buat key terlebih dahulu (buka git bash)
