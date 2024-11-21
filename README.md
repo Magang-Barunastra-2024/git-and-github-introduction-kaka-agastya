@@ -11,17 +11,24 @@
     https://git-scm.com/downloads
 ### 2. Membuat akun Github
     https://github.com/join
+    ![alt text](<picture/gambar 1.png>)
 ### 3. Konfigurasi Git
 #### setelah instalasi, konfigurasi nama dan email yang terhubung ke akun Github
     git config --global user.name "nama anda"
     git config --global user.email "email anda (email@example.com)"
+    ![alt text](<picture/gambar 2.png>)
 ### 4. Membuat SSH Keys
 ### a. Buka laman Github -> Settings -> SSH and GPG keys -> New SSH key
+    ![alt text](<picture/gambar 3.png>)
 ### b. Buat key terlebih dahulu (buka git bash)
 ### c. Ketik command line berikut
     ssh-keygen -t ed25519 -C "email anda (email@example.com)"
     * klik enter 2 kali *
-### d. copy dan paste SSH key pada bagian key pada setting New SSH key (di github)
+### d. gunakan perintah cat untuk memunculkan SSH key
+cat ~/.ssh/id_anda.pub
+![alt text](<picture/gambar 4.png>)
+### e. Copy semua teks dan paste pada bagian key pada setting New SSH key (di github)
+![alt text](<picture/gambar 5.png>) [alt text](README.md)
 
 ## Create Repository
 #### Repositori adalah tempat penyimpanan proyek Anda di Github.
