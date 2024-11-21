@@ -6,15 +6,21 @@
 | Kaka Agastya HW   | PGR | WebDev |
 
 ## Early Procedure
+#### Tahap ini adalah persiapan awal sebelum mulai bekerja dengan Git dan Github.
 
 ## Create Repository
+#### Repositori adalah tempat penyimpanan proyek Anda di Github.
 
 ## Push File from Local to Github
+#### Ini adalah proses mentransfer file atau proyek dari komputer lokal ke repositori Github.
 
 ## Create New Branch in Github 
+#### Branch adalah salinan paralel dari proyek Anda, sebuah tempat untuk mengembangkan fitur baru tanpa mengganggu kode utama.
 
 ## Delete Branch in Github
+#### Menghapus branch yang sudah tidak digunakan
 
 ## Merging Branch in Github
+#### Merging adalah proses menggabungkan branch baru ke branch utama (main)
 
 ## Other Procedure
