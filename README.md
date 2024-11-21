@@ -81,6 +81,14 @@
 
 ## Create New Branch in Github 
 #### Branch adalah salinan paralel dari proyek Anda, sebuah tempat untuk mengembangkan fitur baru tanpa mengganggu kode utama.
+### 1. Buka folder yang telah terhubung ke Github
+### 2. Klik kanan lalu klik Git Bash
+### 3. Masukkan command line berikut
+    git checkout -b "nama branch yang diinginkan"
+### 4. untuk pindah dari branch satu ke branch lain
+    git checkout "nama branch"
+
+![alt text](<picture/gambar 10.png>)
 
 ## Delete Branch in Github
 #### Menghapus branch yang sudah tidak digunakan
