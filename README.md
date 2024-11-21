@@ -12,7 +12,7 @@
 ### 2. Membuat akun Github
     https://github.com/join
 
-    ![alt text](<picture/gambar 1.png>)
+![alt text](<picture/gambar 1.png>)
 ### 3. Konfigurasi Git
 #### setelah instalasi, konfigurasi nama dan email yang terhubung ke akun Github
     git config --global user.name "nama anda"
