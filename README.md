@@ -26,7 +26,7 @@
 ### c. Ketik command line berikut
     ssh-keygen -t ed25519 -C "email anda (email@example.com)"
     * klik enter 2 kali *
-### d. gunakan perintah cat untuk memunculkan SSH key
+### d. Gunakan perintah cat untuk memunculkan SSH key
     cat ~/.ssh/id_anda.pub
 
 ![alt text](<picture/gambar 4.png>)
@@ -96,7 +96,7 @@
 ### 2. Klik kanan lalu klik Git Bash
 ### 3. Masukkan command line berikut
     git checkout -b "nama branch yang diinginkan"
-### 4. untuk pindah dari branch satu ke branch lain
+### 4. Untuk pindah dari branch satu ke branch lain
     git checkout "nama branch"
 
 ![alt text](<picture/gambar 10.png>)
@@ -120,6 +120,11 @@
 ![alt text](<picture/gambar 12.png>)
 ## Other Procedure
 
-### touch
+### Touch
+#### Gunakan command line berikut untuk membuat file
+    touch "nama file"
 ### cd
-###
+#### Gunakan command line berikut untuk pindah ke parent direktori
+    cd ..
+#### Gunakan command line untuk pindah ke spesifik folder
+    cd /c/Users/User/"nama folder"
